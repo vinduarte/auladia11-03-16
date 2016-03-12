@@ -1,2 +1,2 @@
-info 1
+info X
 info 2
