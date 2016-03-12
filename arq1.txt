@@ -1,2 +1,2 @@
-info X
+info Y
 info 2
